@@ -3,4 +3,5 @@ name = "Yeti Icons"
 version = "0.1.0"
 schema_version = 1
 authors = ["moks"]
-description = "A charming icon theme fork again in my choices for Zed"
+description = "zed ide icon theme fork or icons taken from the charmed icons, beared icons and gruvbox icons and redesigned in my own choices"
+repository = "https://github.com/kushalktamang/zed-yeti-icons"
