@@ -7,8 +7,8 @@
       "name": "Dark Yeti Icons",
       "appearance": "dark",
       "directory_icons": {
-        "collapsed": "./icons/dark/_folder.svg",
-        "expanded": "./icons/dark/_folder_open.svg"
+        "collapsed": "./icons/defaults/_folder_dark.svg",
+        "expanded": "./icons/defaults/_folder_open_dark.svg"
       },
       "file_stems": {
         "astro.config.js": "astro-config",
@@ -309,13 +309,13 @@
         "roblox.yml": "lua-config",
         "roblox.yaml": "lua-config",
         "js-to-lua.config.js": "lua-config",
-        "darklua.json": "lua-config",
-        ".darklua.json": "lua-config",
-        ".darklua-dev.json": "lua-config",
-        ".darklua-tests.json": "lua-config",
-        ".darklua-wally.json": "lua-config",
-        ".darklua-bundle.json": "lua-config",
-        ".darklua-bundle-dev.json": "lua-config",
+        "defaultslua.json": "lua-config",
+        ".defaultslua.json": "lua-config",
+        ".defaultslua-dev.json": "lua-config",
+        ".defaultslua-tests.json": "lua-config",
+        ".defaultslua-wally.json": "lua-config",
+        ".defaultslua-bundle.json": "lua-config",
+        ".defaultslua-bundle-dev.json": "lua-config",
         ".luaurc": "luau-config",
         ".robloxrc": "luau-config",
         ".luau-analyze.json": "luau-config",
@@ -1027,388 +1027,388 @@
       },
       "file_icons": {
         "default": {
-          "path": "./icons/dark/_file.svg"
+          "path": "./icons/defaults/_file.svg"
         },
         "assembly": {
-          "path": "./icons/dark/assembly.svg"
+          "path": "./icons/defaults/assembly.svg"
         },
         "astro-config": {
-          "path": "./icons/dark/astro-config.svg"
+          "path": "./icons/defaults/astro-config.svg"
         },
         "astro": {
-          "path": "./icons/dark/astro.svg"
+          "path": "./icons/defaults/astro.svg"
         },
         "audio": {
-          "path": "./icons/dark/audio.svg"
+          "path": "./icons/defaults/audio.svg"
         },
         "binary": {
-          "path": "./icons/dark/binary.svg"
+          "path": "./icons/defaults/binary.svg"
         },
         "bun-lock": {
-          "path": "./icons/dark/bun-lock.svg"
+          "path": "./icons/defaults/bun-lock.svg"
         },
         "bun": {
-          "path": "./icons/dark/bun.svg"
+          "path": "./icons/defaults/bun.svg"
         },
         "c-header": {
-          "path": "./icons/dark/c-header.svg"
+          "path": "./icons/defaults/c-header.svg"
         },
         "c": {
-          "path": "./icons/dark/c.svg"
+          "path": "./icons/defaults/c.svg"
         },
         "changelog": {
-          "path": "./icons/dark/changelog.svg"
+          "path": "./icons/defaults/changelog.svg"
         },
         "code-of-conduct": {
-          "path": "./icons/dark/code-of-conduct.svg"
+          "path": "./icons/defaults/code-of-conduct.svg"
         },
         "codeowners": {
-          "path": "./icons/dark/codeowners.svg"
+          "path": "./icons/defaults/codeowners.svg"
         },
         "config": {
-          "path": "./icons/dark/config.svg"
+          "path": "./icons/defaults/config.svg"
         },
         "cpp-header": {
-          "path": "./icons/dark/cpp-header.svg"
+          "path": "./icons/defaults/cpp-header.svg"
         },
         "cpp": {
-          "path": "./icons/dark/cpp.svg"
+          "path": "./icons/defaults/cpp.svg"
         },
         "cs": {
-          "path": "./icons/dark/cs.svg"
+          "path": "./icons/defaults/cs.svg"
         },
         "css": {
-          "path": "./icons/dark/cssv1.svg"
+          "path": "./icons/defaults/cssv1.svg"
         },
         "css3": {
-          "path": "./icons/dark/css3.svg"
+          "path": "./icons/defaults/css3.svg"
         },
         "csv": {
-          "path": "./icons/dark/csv.svg"
+          "path": "./icons/defaults/csv.svg"
         },
         "dart": {
-          "path": "./icons/dark/dart.svg"
+          "path": "./icons/defaults/dart.svg"
         },
         "database": {
-          "path": "./icons/dark/database.svg"
+          "path": "./icons/defaults/database.svg"
         },
         "docker": {
-          "path": "./icons/dark/docker.svg"
+          "path": "./icons/defaults/docker.svg"
         },
         "docker-compose": {
-          "path": "./icons/dark/docker-compose.svg"
+          "path": "./icons/defaults/docker-compose.svg"
         },
         "drizzle-orm": {
-          "path": "./icons/dark/drizzle-orm.svg"
+          "path": "./icons/defaults/drizzle-orm.svg"
         },
         "env": {
-          "path": "./icons/dark/env.svg"
+          "path": "./icons/defaults/env.svg"
         },
         "eslint": {
-          "path": "./icons/dark/eslint.svg"
+          "path": "./icons/defaults/eslint.svg"
         },
         "event": {
-          "path": "./icons/dark/event.svg"
+          "path": "./icons/defaults/event.svg"
         },
         "font": {
-          "path": "./icons/dark/font.svg"
+          "path": "./icons/defaults/font.svg"
         },
         "fortran-fixed": {
-          "path": "./icons/dark/fortran-fixed.svg"
+          "path": "./icons/defaults/fortran-fixed.svg"
         },
         "fortran": {
-          "path": "./icons/dark/fortran.svg"
+          "path": "./icons/defaults/fortran.svg"
         },
         "git": {
-          "path": "./icons/dark/git.svg"
+          "path": "./icons/defaults/git.svg"
         },
         "gleam": {
-          "path": "./icons/dark/gleam.svg"
+          "path": "./icons/defaults/gleam.svg"
         },
         "go-mod": {
-          "path": "./icons/dark/go-mod.svg"
+          "path": "./icons/defaults/go-mod.svg"
         },
         "go": {
-          "path": "./icons/dark/go.svg"
+          "path": "./icons/defaults/go.svg"
         },
         "godot-assets": {
-          "path": "./icons/dark/godot-assets.svg"
+          "path": "./icons/defaults/godot-assets.svg"
         },
         "godot": {
-          "path": "./icons/dark/godot.svg"
+          "path": "./icons/defaults/godot.svg"
         },
         "hcl": {
-          "path": "./icons/dark/hcl.svg"
+          "path": "./icons/defaults/hcl.svg"
         },
         "html": {
-          "path": "./icons/dark/html.svg"
+          "path": "./icons/defaults/html.svg"
         },
         "image": {
-          "path": "./icons/dark/image.svg"
+          "path": "./icons/defaults/image.svg"
         },
         "java": {
-          "path": "./icons/dark/java.svg"
+          "path": "./icons/defaults/java.svg"
         },
         "javascript-config": {
-          "path": "./icons/dark/javascript-config.svg"
+          "path": "./icons/defaults/javascript-config.svg"
         },
         "javascript": {
-          "path": "./icons/dark/javascript.svg"
+          "path": "./icons/defaults/javascript.svg"
         },
         "json": {
-          "path": "./icons/dark/json.svg"
+          "path": "./icons/defaults/json.svg"
         },
         "julia": {
-          "path": "./icons/dark/julia.svg"
+          "path": "./icons/defaults/julia.svg"
         },
         "just": {
-          "path": "./icons/dark/just.svg"
+          "path": "./icons/defaults/just.svg"
         },
         "key": {
-          "path": "./icons/dark/key.svg"
+          "path": "./icons/defaults/key.svg"
         },
         "kotlin": {
-          "path": "./icons/dark/kotlin.svg"
+          "path": "./icons/defaults/kotlin.svg"
         },
         "latex": {
-          "path": "./icons/dark/latex.svg"
+          "path": "./icons/defaults/latex.svg"
         },
         "license": {
-          "path": "./icons/dark/license.svg"
+          "path": "./icons/defaults/license.svg"
         },
         "lock": {
-          "path": "./icons/dark/lock.svg"
+          "path": "./icons/defaults/lock.svg"
         },
         "lua-config": {
-          "path": "./icons/dark/lua-config.svg"
+          "path": "./icons/defaults/lua-config.svg"
         },
         "lua": {
-          "path": "./icons/dark/lua.svg"
+          "path": "./icons/defaults/lua.svg"
         },
         "luau-config": {
-          "path": "./icons/dark/luau-config.svg"
+          "path": "./icons/defaults/luau-config.svg"
         },
         "luau-def": {
-          "path": "./icons/dark/luau-def.svg"
+          "path": "./icons/defaults/luau-def.svg"
         },
         "luau": {
-          "path": "./icons/dark/luau.svg"
+          "path": "./icons/defaults/luau.svg"
         },
         "makefile": {
-          "path": "./icons/dark/makefile.svg"
+          "path": "./icons/defaults/makefile.svg"
         },
         "Makefile": {
-          "path": "./icons/dark/makefile-v2.svg"
+          "path": "./icons/defaults/makefile-v2.svg"
         },
         "markdown": {
-          "path": "./icons/dark/markdown.svg"
+          "path": "./icons/defaults/markdown.svg"
         },
         "markdownx": {
-          "path": "./icons/dark/markdownx.svg"
+          "path": "./icons/defaults/markdownx.svg"
         },
         "next": {
-          "path": "./icons/dark/next.svg"
+          "path": "./icons/defaults/next.svg"
         },
         "nim": {
-          "path": "./icons/dark/nim.svg"
+          "path": "./icons/defaults/nim.svg"
         },
         "nix": {
-          "path": "./icons/dark/nix.svg"
+          "path": "./icons/defaults/nix.svg"
         },
         "nodejs": {
-          "path": "./icons/dark/nodejs.svg"
+          "path": "./icons/defaults/nodejs.svg"
         },
         "npm-lock": {
-          "path": "./icons/dark/npm-lock.svg"
+          "path": "./icons/defaults/npm-lock.svg"
         },
         "npm": {
-          "path": "./icons/dark/npm.svg"
+          "path": "./icons/defaults/npm.svg"
         },
         "nuxt": {
-          "path": "./icons/dark/nuxt.svg"
+          "path": "./icons/defaults/nuxt.svg"
         },
         "odin": {
-          "path": "./icons/dark/odin.svg"
+          "path": "./icons/defaults/odin.svg"
         },
         "oxc": {
-          "path": "./icons/dark/oxc.svg"
+          "path": "./icons/defaults/oxc.svg"
         },
         "package-config": {
-          "path": "./icons/dark/package-config.svg"
+          "path": "./icons/defaults/package-config.svg"
         },
         "package-lock": {
-          "path": "./icons/dark/package-lock.svg"
+          "path": "./icons/defaults/package-lock.svg"
         },
         "pcss": {
-          "path": "./icons/dark/pcss.svg"
+          "path": "./icons/defaults/pcss.svg"
         },
         "pdf": {
-          "path": "./icons/dark/pdf.svg"
+          "path": "./icons/defaults/pdf.svg"
         },
         "perl": {
-          "path": "./icons/dark/perl.svg"
+          "path": "./icons/defaults/perl.svg"
         },
         "php": {
-          "path": "./icons/dark/php.svg"
+          "path": "./icons/defaults/php.svg"
         },
         "pnpm": {
-          "path": "./icons/dark/pnpm.svg"
+          "path": "./icons/defaults/pnpm.svg"
         },
         "pnpm-lock": {
-          "path": "./icons/dark/pnpmlock.svg"
+          "path": "./icons/defaults/pnpmlock.svg"
         },
         "powershell": {
-          "path": "./icons/dark/powershell.svg"
+          "path": "./icons/defaults/powershell.svg"
         },
         "prettier": {
-          "path": "./icons/dark/prettier.svg"
+          "path": "./icons/defaults/prettier.svg"
         },
         "prettier-ignore": {
-          "path": "./icons/dark/prettierignore.svg"
+          "path": "./icons/defaults/prettierignore.svg"
         },
         "prisma": {
-          "path": "./icons/dark/prisma.svg"
+          "path": "./icons/defaults/prisma.svg"
         },
         "python": {
-          "path": "./icons/dark/python.svg"
+          "path": "./icons/defaults/python.svg"
         },
         "react-typescript": {
-          "path": "./icons/dark/react-typescript.svg"
+          "path": "./icons/defaults/react-typescript.svg"
         },
         "react": {
-          "path": "./icons/dark/react-v2.svg"
+          "path": "./icons/defaults/react-v2.svg"
         },
         "readme": {
-          "path": "./icons/dark/readme.svg"
+          "path": "./icons/defaults/readme.svg"
         },
         "roblox-config": {
-          "path": "./icons/dark/roblox-config.svg"
+          "path": "./icons/defaults/roblox-config.svg"
         },
         "roblox-lock": {
-          "path": "./icons/dark/roblox-lock.svg"
+          "path": "./icons/defaults/roblox-lock.svg"
         },
         "roblox-model": {
-          "path": "./icons/dark/roblox-model.svg"
+          "path": "./icons/defaults/roblox-model.svg"
         },
         "roblox": {
-          "path": "./icons/dark/roblox.svg"
+          "path": "./icons/defaults/roblox.svg"
         },
         "ruby": {
-          "path": "./icons/dark/ruby.svg"
+          "path": "./icons/defaults/ruby.svg"
         },
         "rust-config": {
-          "path": "./icons/dark/rust-config.svg"
+          "path": "./icons/defaults/rust-config.svg"
         },
         "rust": {
-          "path": "./icons/dark/rust.svg"
+          "path": "./icons/defaults/rust.svg"
         },
         "scala": {
-          "path": "./icons/dark/scala.svg"
+          "path": "./icons/defaults/scala.svg"
         },
         "scss": {
-          "path": "./icons/dark/scss.svg"
+          "path": "./icons/defaults/scss.svg"
         },
         "security": {
-          "path": "./icons/dark/security.svg"
+          "path": "./icons/defaults/security.svg"
         },
         "shell": {
-          "path": "./icons/dark/shell.svg"
+          "path": "./icons/defaults/shell.svg"
         },
         "storybook": {
-          "path": "./icons/dark/storybook.svg"
+          "path": "./icons/defaults/storybook.svg"
         },
         "svelte": {
-          "path": "./icons/dark/svelte.svg"
+          "path": "./icons/defaults/svelte.svg"
         },
         "svg": {
-          "path": "./icons/dark/svg.svg"
+          "path": "./icons/defaults/svg.svg"
         },
         "swift": {
-          "path": "./icons/dark/swift.svg"
+          "path": "./icons/defaults/swift.svg"
         },
         "tailwind": {
-          "path": "./icons/dark/tailwind.svg"
+          "path": "./icons/defaults/tailwind.svg"
         },
         "terraform": {
-          "path": "./icons/dark/terraform.svg"
+          "path": "./icons/defaults/terraform.svg"
         },
         "test-blue": {
-          "path": "./icons/dark/test-blue.svg"
+          "path": "./icons/defaults/test-blue.svg"
         },
         "test-teal": {
-          "path": "./icons/dark/test-teal.svg"
+          "path": "./icons/defaults/test-teal.svg"
         },
         "test-yellow": {
-          "path": "./icons/dark/test-yellow.svg"
+          "path": "./icons/defaults/test-yellow.svg"
         },
         "text": {
-          "path": "./icons/dark/text.svg"
+          "path": "./icons/defaults/text.svg"
         },
         "todo": {
-          "path": "./icons/dark/todo.svg"
+          "path": "./icons/defaults/todo.svg"
         },
         "toml": {
-          "path": "./icons/dark/toml.svg"
+          "path": "./icons/defaults/toml.svg"
         },
         "turbo": {
-          "path": "./icons/dark/turbo.svg"
+          "path": "./icons/defaults/turbo.svg"
         },
         "typescript-config": {
-          "path": "./icons/dark/tsconfig.svg"
+          "path": "./icons/defaults/tsconfig.svg"
         },
         "typescript-def": {
-          "path": "./icons/dark/typescript-def.svg"
+          "path": "./icons/defaults/typescript-def.svg"
         },
         "typescript": {
-          "path": "./icons/dark/typescript.svg"
+          "path": "./icons/defaults/typescript.svg"
         },
         "video": {
-          "path": "./icons/dark/video.svg"
+          "path": "./icons/defaults/video.svg"
         },
         "visual-studio": {
-          "path": "./icons/dark/visual-studio.svg"
+          "path": "./icons/defaults/visual-studio.svg"
         },
         "vite": {
-          "path": "./icons/dark/vite.svg"
+          "path": "./icons/defaults/vite.svg"
         },
         "vitest": {
-          "path": "./icons/dark/vitest.svg"
+          "path": "./icons/defaults/vitest.svg"
         },
         "vscode": {
-          "path": "./icons/dark/vscode.svg"
+          "path": "./icons/defaults/vscode.svg"
         },
         "vue": {
-          "path": "./icons/dark/vue.svg"
+          "path": "./icons/defaults/vue.svg"
         },
         "wally-lock": {
-          "path": "./icons/dark/wally-lock.svg"
+          "path": "./icons/defaults/wally-lock.svg"
         },
         "wally": {
-          "path": "./icons/dark/wally.svg"
+          "path": "./icons/defaults/wally.svg"
         },
         "web-assembly": {
-          "path": "./icons/dark/web-assembly.svg"
+          "path": "./icons/defaults/web-assembly.svg"
         },
         "workflow": {
-          "path": "./icons/dark/workflow.svg"
+          "path": "./icons/defaults/workflow.svg"
         },
         "xml": {
-          "path": "./icons/dark/xml.svg"
+          "path": "./icons/defaults/xml.svg"
         },
         "yaml": {
-          "path": "./icons/dark/yaml.svg"
+          "path": "./icons/defaults/yaml.svg"
         },
         "yarn-lock": {
-          "path": "./icons/dark/yarn-lock.svg"
+          "path": "./icons/defaults/yarn-lock.svg"
         },
         "yarn": {
-          "path": "./icons/dark/yarn.svg"
+          "path": "./icons/defaults/yarn.svg"
         },
         "zig": {
-          "path": "./icons/dark/zig.svg"
+          "path": "./icons/defaults/zig.svg"
         },
         "zip": {
-          "path": "./icons/dark/zip.svg"
+          "path": "./icons/defaults/zip.svg"
         }
       }
     }
